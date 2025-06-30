@@ -1,16 +1,46 @@
 # Hi there, I'm Md. Tanvir Ahmed 👋
 
----
+# 🚀 My Flutter App
 
-I'm a passionate **Software Engineer** specializing in building modern, scalable, and user-friendly web applications. With a strong foundation in both **frontend and backend development**, I love transforming complex problems into elegant code solutions.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-Currently, my go-to technologies include:
-
-* **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
-* **Backend:** Node.js, Express.js, PostgreSQL, MongoDB
-* **Tools & Design:** Git, GitHub, Figma
-
-I'm always eager to learn new technologies and contribute to impactful projects. Let's build something amazing together!
+Welcome to **My Flutter App** — a cross-platform mobile application built using Flutter and Dart!
 
 ---
 
+## ✨ Features
+
+- 📱 Beautiful UI
+- 🔥 Fast performance
+- 🎯 Cross-platform support
+- ☁️ Firebase Integration (if applicable)
+- 🌐 API integration (if applicable)
+
+---
+
+## 📸 Screenshots
+
+*(Add your app screenshots here)*  
+Example:
+<img src="screenshots/screen1.png" width="300"> <img src="screenshots/screen2.png" width="300">
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code
+- Dart plugin
+
+### Setup
+
+```bash
+git clone https://github.com/your-username/your-flutter-repo.git
+cd your-flutter-repo
+flutter pub get
+flutter run
