@@ -21,11 +21,6 @@ Welcome to **My Flutter App** — a cross-platform mobile application built usin
 
 ---
 
-## 📸 Screenshots
-
-*(Add your app screenshots here)*  
-Example:
-<img src="screenshots/screen1.png" width="300"> <img src="screenshots/screen2.png" width="300">
 
 ---
 
