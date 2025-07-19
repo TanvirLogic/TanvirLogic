@@ -37,8 +37,8 @@ I'm a passionate **Flutter Developer** from Bangladesh 🇧🇩, focused on buil
 
 ## 📁 Featured Projects
 
-- 🔹 [Awesome Flutter App](https://github.com/TanvirLogic/awesome-flutter-app)
-- 🔹 [Firebase Login UI](https://github.com/TanvirLogic/firebase-login-flutter)
+- 🔹 [Awesome Flutter App](https://github.com/TanvirLogic/Flutter_Quiz_App)
+
 
 ---
 
