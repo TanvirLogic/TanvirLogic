@@ -29,7 +29,8 @@ I'm a passionate **Flutter Developer** from Bangladesh 🇧🇩, focused on buil
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtanvirahmed2025)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/16qkbp5Y3i/?mibextid=wwXIfr)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bmwthriad2023@gmail.com)
 
 ---
