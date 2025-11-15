@@ -37,8 +37,8 @@ I'm a passionate **Flutter Developer** from Bangladesh 🇧🇩, focused on buil
 
 ## 📁 Featured Projects
 
-- 🔹 [Flutter Quiz App](https://github.com/TanvirLogic/Flutter_Quiz_App)
-- 🔹 [Flutter Quiz App](https://github.com/TanvirLogic/Flutter-Task-Manager-App)
+- 🔹 [Quiz-App](https://github.com/TanvirLogic/Flutter_Quiz_App)
+- 🔹 [Task-Manager-App](https://github.com/TanvirLogic/Flutter-Task-Manager-App)
 
 
 ---
