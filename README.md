@@ -19,12 +19,6 @@ I'm a passionate **Flutter Developer** from Bangladesh 🇧🇩, focused on buil
 
 ---
 
-## 📊 GitHub Stats
-
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanvirLogic&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirLogic&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 
