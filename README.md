@@ -70,15 +70,6 @@ A dedicated **Software Engineer** specializing in the **Flutter** ecosystem. I b
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TanvirLogic&show_icons=true&theme=visual_studio_code&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirLogic&layout=compact&theme=visual_studio_code" />
-</p>
-
----
-
 ## 🌐 Engineering Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtanvirahmed2025)
