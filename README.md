@@ -46,7 +46,7 @@ A dedicated **Software Engineer** specializing in the **Flutter** ecosystem. I b
 | :--- | :--- |
 | **Frameworks** | Flutter (Android, iOS, Web) |
 | **Languages** | Dart, Kotlin (Basics), Java (Basics) |
-| **State Management** | BLoC, Provider, Riverpod, GetX |
+| **State Management** | Provider |
 | **Databases** | Firebase Firestore, Realtime DB, SQLite, Hive |
 
 ### Engineering Workflow
